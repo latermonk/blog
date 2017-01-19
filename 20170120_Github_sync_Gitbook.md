@@ -6,6 +6,11 @@
  
 
 1. GitHub.com上边创建带README.md的book的项目
+
+![image](https://github.com/latermonk/blog/raw/master/img/step01.jpg)
+
+
+
 2. GitBook.com上创建book项目的时候选择：
 
 此出应有图片
