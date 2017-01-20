@@ -1,4 +1,4 @@
-### 如何使用 GitHub Sync GtiBook  &  GotBook Editor
+## 如何使用 GitHub Sync GtiBook  &  GotBook Editor
 
 
 ---
@@ -6,13 +6,13 @@
  
 
 
-1. 建立图书的代码库
+###建立图书的代码库
 
 GitHub.com上边创建带README.md的book的项目
 ![image](https://github.com/latermonk/blog/raw/master/img/step01.jpg)
 
 
-2. 建立图书并选择可以和github同步的项目
+###建立图书并选择可以和github同步的项目
 
 
 GitBook.com上创建book项目的时候选择：
@@ -22,7 +22,7 @@ GitBook.com上创建book项目的时候选择：
 ![image](https://github.com/latermonk/blog/raw/master/img/step0203.jpg)
 
 
-3. 开始写书
+###开始写书
 
 
 先要在guthub上创建SUMMARY.md文件，并在文件中写出一下内容：
